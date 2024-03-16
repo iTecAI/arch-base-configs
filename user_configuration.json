@@ -166,7 +166,8 @@
         "alacritty",
         "waybar",
         "neovim",
-        "sudo"
+        "sudo",
+        "btop"
     ],
     "parallel downloads": 0,
     "profile_config": {
