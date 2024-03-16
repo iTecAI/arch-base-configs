@@ -6,7 +6,7 @@
     "audio_config": {
         "audio": "pipewire"
     },
-    "bootloader": "Grub",
+    "bootloader": "Limine",
     "config_version": "2.7.1",
     "debug": false,
     "hostname": "itecprime",
